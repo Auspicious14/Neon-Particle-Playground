@@ -129,7 +129,7 @@ export default function ParticlePlayground() {
         </h1>
         <div className="flex justify-center items-center gap-4 mt-3">
           <div className="h-[1px] w-8 md:w-16 bg-gradient-to-r from-transparent to-slate-500" />
-          <span className="text-slate-500 font-orbitron text-[9px] uppercase tracking-[0.5em]">Next.js App Router</span>
+        
           <div className="h-[1px] w-8 md:w-16 bg-gradient-to-l from-transparent to-slate-500" />
         </div>
       </header>
